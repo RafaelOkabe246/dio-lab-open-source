@@ -1,6 +1,12 @@
 # About me
 
-Hello, I am RafaelOkabe246, or just Rafael. I am a **Back-end** mage that is learning **Front-end** spells to become a **Full stack** developer. My journey began when I discover a new mission in my guild (college) blackboard. The announcement excited me, it was my chance to increase my level and upgrade my skill tree. With that in mind, I package my items and departed. For a while, it was strange to switch from the usual and user friendly GitHub Desktop to a more "low level" aproach like GitBash, but after sometime the commands started makes sense in my head and soon I was able to cast "fireballs (commits)" and "energy manipulation (clone repository)" to overcome the challanges.
+**My cool lore (recommend to read it first):** <br>
+  Hello, I am RafaelOkabe246, or just Rafael. I am a **Back-end** mage that is learning **Front-end** spells to become a **Full stack** grand wizard (developer). My journey began when I discover a new mission in my guild (college) blackboard. The announcement excited me, it was my chance to increase my level and upgrade my skill tree. With that in mind, I package my items and departed. <br> 
+
+  For a while, it was strange to switch from the usual and user friendly GitHub Desktop to a more "low level" aproach like GitBash, but after sometime the commands started makes sense in my head and soon I was able to cast "fireballs (commits)" and "energy manipulation (clone repository)" to overcome the challanges. I am excited to move foward and find some lord that would accept my services.
+
+**My real life lore:** <br>
+Hello! My name is Rafael Okabe, I'm a game programmer, writer in my spare time and passionate to learn new things. I started developing my first games when I was 12 years old on the Scratch platform. And since then my passion for game development has only grown. In 2019, I started studying the programming language C# and in the following year I participated in my first Game Jam, in which I made my first game in Unity. I am currently studying Game Development at Senac.
 
 ***
 <br> 
@@ -85,13 +91,14 @@ Hello, I am RafaelOkabe246, or just Rafael. I am a **Back-end** mage that is lea
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ***
-<br> <br>
+<br> 
 
 ## Other experiences:
 Game development <br>
 Game Design <br>
 Project Management <br>
 Producer <br>
-
+SCRUM <br>
+Kanban <br>
 
 
